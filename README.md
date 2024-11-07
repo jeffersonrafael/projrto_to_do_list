@@ -1,7 +1,7 @@
 
 
 
-![Imagem de Capa](../Images/capa.jpeg)
+![Imagem de Capa](https://github.com/jeffersonrafael/projrto_to_do_list/blob/master/Images/capa.jpeg)
 
 
 # Licença
