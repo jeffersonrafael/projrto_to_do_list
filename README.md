@@ -1,7 +1,7 @@
 
 
 
-![Imagem de Capa](../projeto_to_do_list/Images/capa.jpeg)
+![Imagem de Capa](../Images/capa.jpeg)
 
 
 # Licença
