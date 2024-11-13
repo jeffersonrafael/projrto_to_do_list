@@ -4,7 +4,7 @@ def main(page: ft.Page):
     # Título da página
     page.title = "App To-Do List"
     page.scroll = "adaptive"
-    page.window_width = 360  # Largura padrão para 9:16
+    page.window_width = 520  # Largura padrão para 9:16
     page.window_height = 640  # Altura padrão para 9:16
     
     # Lista de categorias

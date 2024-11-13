@@ -1,7 +1,11 @@
 
 
-
+<!-- Convenção: O caminho da imagem será a url da imagem no github, ao invés de ser o caminho do repositório local. Desse modo, evita o problema da imagem não carregar no github. -->
 ![Imagem de Capa](https://github.com/jeffersonrafael/projrto_to_do_list/blob/master/Images/capa.jpeg)
+
+## Indice
+- [Licença](#licença)
+- [Motivação](#motivação)
 
 
 # Licença
