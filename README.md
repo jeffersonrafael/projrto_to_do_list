@@ -5,8 +5,9 @@
 ![Imagem de Capa](https://github.com/jeffersonrafael/projrto_to_do_list/blob/master/Images/DALL%C2%B7E-2024-11-23-09.36.png)
 -->
 
-<img src="https://github.com/jeffersonrafael/projrto_to_do_list/blob/master/Images/DALL%C2%B7E-2024-11-23-09.36.png" alt="Imagem de capa" width="400"/>
-
+<div align="center">
+  <img src="https://github.com/jeffersonrafael/projrto_to_do_list/blob/master/Images/DALL%C2%B7E-2024-11-23-09.36.png" alt="Imagem de capa" width="900"/>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>
