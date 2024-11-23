@@ -17,8 +17,9 @@
 - [Motivação](#motivação)
 
 
-# Licença
+
 <!--
+# Licença
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg) ![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg) 
 -->
 
