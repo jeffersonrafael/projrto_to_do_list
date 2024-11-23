@@ -54,3 +54,75 @@ No geral, o objetivo principal é ter uma vida mais organizada e produtiva, sem 
 <img src="https://avatars.githubusercontent.com/u/65470846?v=4" alt="Minha Foto de Perfil" width="150"/>
 
 [Jefferson Rafael](https://github.com/jeffersonrafael)
+
+
+
+# Aba em inglês
+
+<div>
+  <style>
+    .tab {
+      display: none;
+    }
+    .tab-header {
+      display: flex;
+      cursor: pointer;
+      padding: 10px;
+      background-color: #f1f1f1;
+      border-bottom: 1px solid #ccc;
+    }
+    .tab-header div {
+      margin-right: 10px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      background-color: #e1e1e1;
+    }
+    .tab-header div.active {
+      background-color: #fff;
+      border-bottom: none;
+    }
+    .tab-content {
+      padding: 10px;
+      border: 1px solid #ccc;
+      display: none;
+    }
+    .tab-content.active {
+      display: block;
+    }
+  </style>
+
+  <div class="tab-header">
+    <div onclick="openTab('tab1')">Aba 1</div>
+    <!-- <div onclick="openTab('tab2')">Aba 2</div>
+    <div onclick="openTab('tab3')">Aba 3</div> -->
+  </div>
+
+  <div id="tab1" class="tab-content">
+    <h2>Conteúdo da Aba 1</h2>
+    <p>Este é o conteúdo da primeira aba.</p>
+  </div>
+  <!-- <div id="tab2" class="tab-content">
+          <h2>Conteúdo da Aba 2</h2>
+          <p>Este é o conteúdo da segunda aba.</p>
+       </div>
+  <div id="tab3" class="tab-content">
+    <h2>Conteúdo da Aba 3</h2>
+    <p>Este é o conteúdo da terceira aba.</p>
+  </div> -->
+
+  <script>
+    function openTab(tabId) {
+      var i, tabContent, tabHeader;
+      tabContent = document.getElementsByClassName("tab-content");
+      for (i = 0; i < tabContent.length; i++) {
+        tabContent[i].classList.remove("active");
+      }
+      tabHeader = document.querySelectorAll(".tab-header div");
+      for (i = 0; i < tabHeader.length; i++) {
+        tabHeader[i].classList.remove("active");
+      }
+      document.getElementById(tabId).classList.add("active");
+      event.target.classList.add("active");
+    }
+  </script>
+</div>
