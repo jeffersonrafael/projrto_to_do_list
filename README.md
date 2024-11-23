@@ -17,7 +17,7 @@
 - [Descrição](#descrição)
 - [Contribuidores](#contribuidores)
 
-
+---
 
 <!--
 # Licença
